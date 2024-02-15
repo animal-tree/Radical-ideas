@@ -35,7 +35,7 @@ print(f'{AGI.__init__} is a "magic method".')
 <function AGI.__init__ at 0x102f9cf40> is a "magic method".
 ```
 
-While this "magic method" is indistinguishable from a technology sufficiently advanced, we have bothered to program some other stuff.
+While this "magic method" might be "indistinguishable from a technology sufficiently advanced", we have also programmed some other stuff:
 
 Check it out [here](https://github.com/AGI-init/UnifiedML) and [here](https://github.com/Cave-Dwellers-Tree-People/minihydra), and maybe [here](https://github.com/AGI-init/tributaries) and [here](https://github.com/AGI-init/UnifiedML-legacy), and maybe [here](https://github.com/AGI-init/XRDs) and [here](https://github.com/slerman12/Detective-Sam), ***with more to come***.
 
